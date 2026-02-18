@@ -1,1 +1,85 @@
-title: Lost Nobody ThemeoriginalAuthor: SAI3RINAdescription: Replaces Menu with the ones seen in the previewassets:- name: field2d\us\zz0command.2dd  method: copy  source:  - name: field2d\us\zz0command.2dd- name: menu\us\camp.2ld  method: copy  source:  - name: menu\us\camp.2ld- name: remastered\field2d\us\zz0command.2dd\US_zz0command_2dd0.png  method: copy  source:  - name: remastered\field2d\us\zz0command.2dd\US_zz0command_2dd0.png- name: remastered\menu\us\camp.2ld\US_camp_2ld0.png  method: copy  source:  - name: remastered\menu\us\camp.2ld\US_camp_2ld0.png
+title: Lost Nobody Theme
+originalAuthor: SAI3RINA
+description: Replaces Menu with the ones seen in the preview
+dependencies: 
+assets:
+- name: field2d/us/zz0command.2dd
+  method: copy
+  source:
+  - name: field2d/us/zz0command.2dd
+- name: menu/us/camp.2ld
+  method: copy
+  source:
+  - name: menu/us/camp.2ld
+- name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
+- name: remastered/menu/us/camp.2ld/US_camp_2ld0.png
+  method: copy
+  source:
+  - name: remastered/menu/us/camp.2ld/US_camp_2ld0.png
+- name: field2d/fr/zz0command.2dd
+  method: copy
+  source:
+  - name: field2d/fr/zz0command.2dd
+- name: field2d/gr/zz0command.2dd
+  method: copy
+  source:
+  - name: field2d/gr/zz0command.2dd
+- name: field2d/it/zz0command.2dd
+  method: copy
+  source:
+  - name: field2d/it/zz0command.2dd
+- name: field2d/sp/zz0command.2dd
+  method: copy
+  source:
+  - name: field2d/sp/zz0command.2dd
+- name: menu/fr/camp.2ld
+  method: copy
+  source:
+  - name: menu/fr/camp.2ld
+- name: menu/gr/camp.2ld
+  method: copy
+  source:
+  - name: menu/gr/camp.2ld
+- name: menu/it/camp.2ld
+  method: copy
+  source:
+  - name: menu/it/camp.2ld
+- name: menu/sp/camp.2ld
+  method: copy
+  source:
+  - name: menu/sp/camp.2ld
+- name: remastered/field2d/fr/zz0command.2dd/FR_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/field2d/fr/zz0command.2dd/FR_zz0command_2dd0.png
+- name: remastered/field2d/gr/zz0command.2dd/GR_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/field2d/gr/zz0command.2dd/GR_zz0command_2dd0.png
+- name: remastered/field2d/it/zz0command.2dd/IT_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/field2d/it/zz0command.2dd/IT_zz0command_2dd0.png
+- name: remastered/field2d/sp/zz0command.2dd/SP_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/field2d/sp/zz0command.2dd/SP_zz0command_2dd0.png
+- name: remastered/menu/fr/camp.2ld/FR_camp_2ld0.png
+  method: copy
+  source:
+  - name: remastered/menu/fr/camp.2ld/FR_camp_2ld0.png
+- name: remastered/menu/gr/camp.2ld/GR_camp_2ld0.png
+  method: copy
+  source:
+  - name: remastered/menu/gr/camp.2ld/GR_camp_2ld0.png
+- name: remastered/menu/it/camp.2ld/IT_camp_2ld0.png
+  method: copy
+  source:
+  - name: remastered/menu/it/camp.2ld/IT_camp_2ld0.png
+- name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
+  method: copy
+  source:
+  - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
